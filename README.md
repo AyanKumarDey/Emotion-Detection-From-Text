@@ -1,6 +1,6 @@
 # Emotion Detection from Text
 
-This project was developed as part of the ASE Trainee (AIML) selection process for Cyfuture India (Batch 2025).
+A machine learning project focused on classifying emotions from text using natural language processing.
 
 ## 📌 Objective
 To build a machine learning model that can detect emotions such as joy, sadness, anger, fear, love, and surprise from text data using Python and AI/ML libraries.
