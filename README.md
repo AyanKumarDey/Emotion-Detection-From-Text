@@ -55,3 +55,10 @@ To build a machine learning model that can detect emotions such as joy, sadness,
 3. Run all cells to train the model and make predictions
 
 ---
+
+## 👨‍💻 Author
+- **Your Name**: [Ayan Kumar Dey]
+- **Email**: [ayankumardey99@gmail.com]
+- **College**: [JIS College Of Engineering]
+
+---
