@@ -57,8 +57,8 @@ To build a machine learning model that can detect emotions such as joy, sadness,
 ---
 
 ## 👨‍💻 Author
-- **Your Name**: [Ayan Kumar Dey]
-- **Email**: [ayankumardey99@gmail.com]
-- **College**: [JIS College Of Engineering]
+- **Your Name**: Ayan Kumar Dey
+- **Email**: ayankumardey99@gmail.com
+- **College**: JIS College Of Engineering
 
 ---
